@@ -13,7 +13,7 @@ __影视源：__
 > - ~http://drpy.site/js1 （小雅）~
 > - ~https://tvbox.cainisi.cf （菜妮丝）~
 > - ~https://神器每日推送.tk/pz.json （神器）~
-> - http://itvbox.cc/tvbox/云星日记/1.m3u8 （云星）
+> - ~http://itvbox.cc/tvbox/云星日记/1.m3u8 （云星）~
 
 
 
