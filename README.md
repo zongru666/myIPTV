@@ -51,5 +51,10 @@ https://github.com/jisoypub/iptv
 https://github.com/joevess/IPTV
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zognru666/myIPTV&type=Date)](https://star-history.com/#zognru666/myIPTV&Date)
+
+
 ## 安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases，侵删
 自用库，用于学习，若用请24小时后自行删除，谢谢配合，侵删
