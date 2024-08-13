@@ -3,7 +3,7 @@ __安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases ，侵删__
 
 --------------------------------------------------------------
 
-__影视源：__
+__影视源：__ （来自https://raw.liucn.cc/box/）
 
 > - http://我不是.肥猫.live/接口禁止贩卖 (肥猫)
 > - ~https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json~
