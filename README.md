@@ -1,5 +1,5 @@
 # 自用iptv源
-__安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases， 侵删__
+__安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases ，侵删__
 
 --------------------------------------------------------------
 
@@ -23,11 +23,11 @@ __直播源：__
 > - https://live.zhoujie218.top/tv/iptv4.m3u （https://github.com/vbskycn/iptv）
 > - https://live.zhoujie218.top/tv/iptv6.m3u （https://github.com/vbskycn/iptv）
 > - https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8 （https://github.com/joevess/IPTV）
-> - https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u （）
+> - https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u （https://github.com/cymz6/AutoIPTV-Hotel）
 
-## 📺 自动扫描直播源 IPTV6：
+## 📺 自动扫描直播源 IPTV6/IPTV4：
 
-*有ipv6环境的强烈推荐这个列表，高速稳定*
+*有ipv6环境的强烈推荐这个IPTV6源，高速稳定*
 
 <table style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
@@ -44,6 +44,16 @@ __直播源：__
     <td>M3U 格式直播源</td>
     <td><a href="https://live.zhoujie218.top/tv/iptv6.m3u">https://live.zhoujie218.top/tv/iptv6.m3u</a></td>
     <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv6.m3u')">快速复制</button></td>
+  </tr>
+  <tr>
+    <td>M3U 格式直播源</td>
+    <td><a href="https://live.zhoujie218.top/tv/iptv4.m3u">https://live.zhoujie218.top/tv/iptv4.m3u</a></td>
+    <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv4.m3u')">快速复制</button></td>
+  </tr>
+  <tr>
+    <td>TXT 格式直播源</td>
+    <td><a href="https://live.zhoujie218.top/tv/iptv4.txt">https://live.zhoujie218.top/tv/iptv4.txt</a></td>
+    <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv4.txt')">快速复制</button></td>
   </tr>
 </table>
 
