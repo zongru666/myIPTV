@@ -3,7 +3,7 @@ __安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases ，侵删__
 
 --------------------------------------------------------------
 
-__影视源：__ （来自https://raw.liucn.cc/box/）
+__影视源：__ （来自https://raw.liucn.cc/box/ ）
 
 > - http://我不是.肥猫.live/接口禁止贩卖 (肥猫)
 > - ~https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json~
@@ -20,8 +20,8 @@ __影视源：__ （来自https://raw.liucn.cc/box/）
 __直播源：__
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/iptv2024.m3u (本仓库源代理地址)
 > - https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u (原仓库源代理地址)
-> - https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8 （来自https://github.com/joevess/IPTV）
-> - https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u （来自https://github.com/cymz6/AutoIPTV-Hotel）
+> - https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8 （来自https://github.com/joevess/IPTV ）
+> - https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u （来自https://github.com/cymz6/AutoIPTV-Hotel ）
 
 - 📺 自动扫描直播源 IPTV6/IPTV4：
 
