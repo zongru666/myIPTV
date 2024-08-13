@@ -23,6 +23,15 @@
 
 
 
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------
+
 iptv汇集：
 
 https://github.com/HerbertHe/iptv-sources
@@ -32,5 +41,5 @@ https://github.com/jisoypub/iptv
 https://github.com/joevess/IPTV
 
 
-## 安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases，侵删
+** ## 安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases，侵删 ** 
 自用库，用于学习，若用请24小时后自行删除，谢谢配合，侵删
