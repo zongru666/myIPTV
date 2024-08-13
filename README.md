@@ -7,9 +7,9 @@ __影视源：__
 
 > - http://我不是.肥猫.live/接口禁止贩卖 (肥猫)
 ~> - https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json~
-> - https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json （FongMi）
+> - https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json （FongMi）__不推荐__
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
-> - http://home.jundie.top:81/top98.json （俊哥）
+> - http://home.jundie.top:81/top98.json （俊哥）__不推荐__
 > - http://drpy.site/js1 （小雅）
 > - https://tvbox.cainisi.cf （菜妮丝）
 > - https://神器每日推送.tk/pz.json （神器）
