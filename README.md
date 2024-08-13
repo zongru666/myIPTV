@@ -4,11 +4,19 @@
 ![直播地址网络请求失败](https://github.com/user-attachments/assets/e6858620-1abc-455d-894d-b3e47c2c0be2)
 解决方法：改为github镜像站的地址就好了，如https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u，使用的是kkgithub镜像站的
 --------------------------------------------------------------
-** 影视源：**
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+__影视源：__
+
+- https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
 
 
+__直播源：__
+- https://raw.kkgithub.com/zongru666/myIPTV/main/iptv2024.m3u (本仓库源代理地址)
+- https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u (原仓库源代理地址)
+- https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
+- https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
+
+- 
 
 
 
