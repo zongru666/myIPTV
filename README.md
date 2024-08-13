@@ -1,4 +1,4 @@
-# 自用iptv源
+# TVBox自用影视源与iptv源
 __安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases ，侵删__
 
 --------------------------------------------------------------
