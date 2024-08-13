@@ -20,12 +20,10 @@ __影视源：__
 __直播源：__
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/iptv2024.m3u (本仓库源代理地址)
 > - https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u (原仓库源代理地址)
-> - https://live.zhoujie218.top/tv/iptv4.m3u （https://github.com/vbskycn/iptv）
-> - https://live.zhoujie218.top/tv/iptv6.m3u （https://github.com/vbskycn/iptv）
 > - https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8 （https://github.com/joevess/IPTV）
 > - https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u （https://github.com/cymz6/AutoIPTV-Hotel）
 
-## 📺 自动扫描直播源 IPTV6/IPTV4：
+- 📺 自动扫描直播源 IPTV6/IPTV4：
 
 *有ipv6环境的强烈推荐这个IPTV6源，高速稳定*
 
