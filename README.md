@@ -6,7 +6,7 @@ __安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases ，侵删__
 __影视源：__
 
 > - http://我不是.肥猫.live/接口禁止贩卖 (肥猫)
-> - https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json 
+~> - https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json~
 > - https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json （FongMi）
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
 > - http://home.jundie.top:81/top98.json （俊哥）
