@@ -2138,38 +2138,6 @@ http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="卫视",第一卫视
 http://play2.one-tv.com/live/onetv.m3u8
-#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方",湖南爱晚
-http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="地方",湖南视剧
-http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="地方",湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="地方",湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="地方",湖南国际
-http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="地方",湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="地方",湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="地方",湖南教育
-http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
-#EXTINF:-1 tvg-id="东莞生活" tvg-name="东莞生活" tvg-logo="https://live.fanmingming.com/tv/东莞生活.png" group-title="地方",东莞生活
-https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-#EXTINF:-1 tvg-id="东莞新闻" tvg-name="东莞新闻" tvg-logo="https://live.fanmingming.com/tv/东莞新闻.png" group-title="地方",东莞新闻
-https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-#EXTINF:-1 tvg-name="美亚C+" tvg-id="美亚C+" tvg-logo="https://live.fanmingming.com/tv/美亚C+.png" group-title="地方", 美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="地方",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="地方",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="地方",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="国际",CNN
@@ -2714,17 +2682,17 @@ http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",永嘉新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="D｜浙江频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="D｜浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="D｜浙江频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="D｜浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="D｜浙江频道",浙江教科
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="D｜浙江频道",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="D｜浙江频道",浙江教科影院
+#EXTINF:-1 group-title="D｜浙江频道",浙江教科影视
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -2732,13 +2700,13 @@ http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",浙江民生休闲
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="D｜浙江频道",浙江民生休闲
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="地方",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",浙江经济生活
 http://115.215.143.100:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜浙江频道",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="D｜浙江频道",浙江经济生活
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="D｜浙江频道",浙江钱江都市
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -2794,38 +2762,40 @@ http://cm-wshls.homecdn.com/live/2aa50.m3u8
 http://116.128.224.11:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="D｜湖南频道",湖南公共
 http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜湖南频道",湖南国际
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="D｜湖南频道",湖南国际
 http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南国际
 http://222.241.154.37:9901/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="D｜湖南频道",湖南娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南娱乐
 http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜湖南频道",湖南娱乐
 http://175.8.213.198:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜湖南频道",湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 group-title="D｜湖南频道",湖南娱乐
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜湖南频道",湖南教育
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="D｜湖南频道",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="D｜湖南频道",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜湖南频道",湖南电影
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="D｜湖南频道",湖南电影
 http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南电影
 http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜湖南频道",湖南电视剧
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="D｜湖南频道",湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜湖南频道",湖南经视
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="D｜湖南频道",湖南经视
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南经视
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="D｜湖南频道",湖南都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南都市
 http://110.53.218.182:9902/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜湖南频道",湖南都市
@@ -2834,8 +2804,6 @@ http://116.128.224.11:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=
 http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜湖南频道",湖南都市
 http://119.39.97.2:9002/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜湖南频道",湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 group-title="D｜湖南频道",湖南都市
 http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜湖南频道",金鹰纪实
