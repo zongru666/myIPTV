@@ -2386,6 +2386,8 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="美亚C+" tvg-id="美亚C+" tvg-logo="https://live.fanmingming.com/tv/美亚C+.png" group-title="Hong Kong", 美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="Hong Kong",TW台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="Hong Kong",TW台视新闻
