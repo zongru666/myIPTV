@@ -23,46 +23,41 @@ __直播源：__
 > - https://m3u.ibert.me/j_home.m3u (来自https://github.com/HerbertHe/iptv-sources)
 > - https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8 （来自https://github.com/joevess/IPTV ）
 > - https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u （来自https://github.com/cymz6/AutoIPTV-Hotel ）
-
-- 📺 自动扫描直播源 IPTV6/IPTV4：
-
-*有ipv6环境的强烈推荐这个IPTV6源，高速稳定*
-
-*一般都有ipv6的，但需要在路由器开启，以华为路由器为例，打开路由器管理页面，找到网络设置，里面就有个开启/关闭ipv6，开启即可*
-![路由器开启ipv6](https://github.com/user-attachments/assets/3ef66c4a-4fb4-42ad-b3f6-3bd1afafe61f)
-
-
-<table style="width:100%; border-collapse: collapse; text-align: center;">
-  <tr>
-    <th>名称</th>
-    <th>网址</th>
-    <th>快速复制</th>
-  </tr>
-  <tr>
-    <td>TXT 格式直播源</td>
-    <td><a href="https://live.zhoujie218.top/tv/iptv6.txt">https://live.zhoujie218.top/tv/iptv6.txt</a></td>
-    <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv6.txt')">快速复制</button></td>
-  </tr>
-  <tr>
-    <td>M3U 格式直播源</td>
-    <td><a href="https://live.zhoujie218.top/tv/iptv6.m3u">https://live.zhoujie218.top/tv/iptv6.m3u</a></td>
-    <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv6.m3u')">快速复制</button></td>
-  </tr>
-  <tr>
-    <td>M3U 格式直播源</td>
-    <td><a href="https://live.zhoujie218.top/tv/iptv4.m3u">https://live.zhoujie218.top/tv/iptv4.m3u</a></td>
-    <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv4.m3u')">快速复制</button></td>
-  </tr>
-  <tr>
-    <td>TXT 格式直播源</td>
-    <td><a href="https://live.zhoujie218.top/tv/iptv4.txt">https://live.zhoujie218.top/tv/iptv4.txt</a></td>
-    <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv4.txt')">快速复制</button></td>
-  </tr>
-</table>
+> - 📺 自动扫描直播源 IPTV6/IPTV4：  
+> > *有ipv6环境的强烈推荐这个IPTV6源，高速稳定*  
+> > *一般都有ipv6的，但需要在路由器开启，以华为路由器为例，打开路由器管理页面，找到网络设置，里面就有个开启/关闭ipv6，开启即可*
+> > ![路由器开启ipv6](https://github.com/user-attachments/assets/3ef66c4a-4fb4-42ad-b3f6-3bd1afafe61f)
+> > <table style="width:100%; border-collapse: collapse; text-align: center;">
+> >   <tr>
+> >     <th>名称</th>
+> >     <th>网址</th>
+> >     <th>快速复制</th>
+> >   </tr>
+> >   <tr>
+> >     <td>TXT 格式直播源</td>
+> >     <td><a href="https://live.zhoujie218.top/tv/iptv6.txt">https://live.zhoujie218.top/tv/iptv6.txt</a></td>
+> >     <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv6.txt')">快速复制</button></td>
+> >   </tr>
+> >   <tr>
+> >     <td>M3U 格式直播源</td>
+> >     <td><a href="https://live.zhoujie218.top/tv/iptv6.m3u">https://live.zhoujie218.top/tv/iptv6.m3u</a></td>
+> >     <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv6.m3u')">快速复制</button></td>
+> >   </tr>
+> >   <tr>
+> >     <td>M3U 格式直播源</td>
+> >     <td><a href="https://live.zhoujie218.top/tv/iptv4.m3u">https://live.zhoujie218.top/tv/iptv4.m3u</a></td>
+> >     <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv4.m3u')">快速复制</button></td>
+> >   </tr>
+> >   <tr>
+> >     <td>TXT 格式直播源</td>
+> >     <td><a href="https://live.zhoujie218.top/tv/iptv4.txt">https://live.zhoujie218.top/tv/iptv4.txt</a></td>
+> >     <td><button onclick="copyToClipboard('https://live.zhoujie218.top/tv/iptv4.txt')">快速复制</button></td>
+> >   </tr>
+> > </table>
 
 ------------------------------------------------------------------------------------
 
-iptv相关库汇集：（感谢各位仓库作者的收集）
+__iptv相关库汇集：（感谢各位仓库作者的收集）__
 
 > * https://github.com/HerbertHe/iptv-sources
 > * https://github.com/jisoypub/iptv
