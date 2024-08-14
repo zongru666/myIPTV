@@ -355,6 +355,8 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 group-title="China",CCTV4
 http://61.136.67.238:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="China",CCTV5
+http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China",CCTV5
 http://171.8.244.248:808/hls/5/index.m3u8
 #EXTINF:-1 group-title="China",CCTV5
 http://222.71.95.178:9901/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0
