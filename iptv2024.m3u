@@ -2891,12 +2891,6 @@ http://live.cztv.cc:85/live/sjpd.m3u8
 #EXTINF:-1 group-title="D｜广东频道",云浮综合
 https://livestream.oeeee.com/slive/17806.m3u8
 #EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://113.109.117.193:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://113.109.117.92:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
 http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="D｜广东频道",广东新闻
 http://14.29.76.30:9901/tsfile/live/1001_1.m3u8
