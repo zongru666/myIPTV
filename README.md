@@ -3,7 +3,7 @@ __安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases ，侵删__
 
 --------------------------------------------------------------
 
-__影视源：__ （来自https://raw.liucn.cc/box/       https://gitcode.net/axutongxue/backup/-/wikis/TVBox）简单明了的长期更新TVBox视频源地址（排名不分先后）
+__影视源：__ （来自https://raw.liucn.cc/box/    https://gitcode.net/axutongxue/backup/-/wikis/TVBox ）简单明了的长期更新TVBox视频源地址（排名不分先后）
 
 > - http://我不是.肥猫.live (肥猫)
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
