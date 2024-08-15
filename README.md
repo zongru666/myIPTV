@@ -31,7 +31,7 @@ __影视源：__ （来自https://raw.liucn.cc/box/    https://gitcode.net/axuto
 > - 南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 > - 唐僧影视（TV）：https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt
 > - 月光宝盒（TV）：https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
-> - 多仓版视频源（影视仓、EasyBox可用／直接复制下方冒号后的链接添加）：
+> > - 多仓版视频源（影视仓、EasyBox可用／直接复制下方冒号后的链接添加）：
 > > - liu673cn：https://raw.liucn.cc/box/dm.txt
 > > - 应用多多：https://jihulab.com/duomv/apps/-/raw/main/duo.json
 > > - 小胡软件多仓：https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt
