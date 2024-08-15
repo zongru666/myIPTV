@@ -3,7 +3,7 @@ __安装包来自https://github.com/o0HalfLife0o/TVBoxOSC/releases ，侵删__
 
 --------------------------------------------------------------
 
-__影视源：__ （来自https://raw.liucn.cc/box/ ）
+__影视源：__ （来自https://raw.liucn.cc/box/       https://gitcode.net/axutongxue/backup/-/wikis/TVBox）简单明了的长期更新TVBox视频源地址（排名不分先后）
 
 > - http://我不是.肥猫.live (肥猫)
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
@@ -14,8 +14,30 @@ __影视源：__ （来自https://raw.liucn.cc/box/ ）
 > - ~https://tvbox.cainisi.cf （菜妮丝）~
 > - ~https://神器每日推送.tk/pz.json （神器）~
 > - ~http://itvbox.cc/tvbox/云星日记/1.m3u8 （云星）~
+> - 饭太硬：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fan.json
+> - 蜂蜜：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json
+> - 星云（打开页面获取）：https://moil.cc/10.html
+> - 巧技：https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
+> - 道长：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/XYQTVBox/drpy_js/drjs_config.json
+> - 俊于：http://home.jundie.top:81/top98.json
+> - 春盈天下：https://wds.ecsxs.com/230989.json
+> - 巧儿：http://pandown.pro/tvbox/tvbox.json
+> - 雷蒙（有电视直播）：https://lem.clem7.repl.co/N3RD/JN/tv.txt
+> - 湘雅晴APP线路：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json
+> - 湘雅晴TV线路：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json
+> - 不良帅：https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
+> - 胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
+> - 高天流水：https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json
+> - 南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+> - 唐僧影视（TV）：https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt
+> - 月光宝盒（TV）：https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
 
-
+多仓版视频源（影视仓、EasyBox可用／直接复制下方冒号后的链接添加）：
+> > - liu673cn：https://raw.liucn.cc/box/dm.txt
+> > - 应用多多：https://jihulab.com/duomv/apps/-/raw/main/duo.json
+> > - 小胡软件多仓：https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt
+> > - Pandwon：http://pandown.pro/tvbox/tvbox.json
+> > - Dxawi：https://dxawi.github.io/0/0.json
 
 __直播源：__
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/iptv2024.m3u (本仓库源代理地址)
