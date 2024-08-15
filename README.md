@@ -72,7 +72,7 @@ __iptv相关库汇集：（感谢各位仓库作者的收集）__
 ------------------------------------------------------------------------------------
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/myIPTV&type=Date)](https://star-history.com/#zongru666/myIPTV&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/myIPTV&type=Timeline)](https://star-history.com/#zongru666/myIPTV&Timeline)
 
 
 
