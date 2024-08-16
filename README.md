@@ -8,13 +8,6 @@ __影视源：__ （来自https://raw.liucn.cc/box/    https://gitcode.net/axuto
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/yingshi2024.json （本仓库源）
 > - http://我不是.肥猫.live (肥猫)
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
-> - https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json （FongMi）__不推荐__
-> - http://home.jundie.top:81/top98.json （俊哥）__不推荐__
-> - ~https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json~
-> - ~http://drpy.site/js1 （小雅）~
-> - ~https://tvbox.cainisi.cf （菜妮丝）~
-> - ~https://神器每日推送.tk/pz.json （神器）~
-> - ~http://itvbox.cc/tvbox/云星日记/1.m3u8 （云星）~
 > - 饭太硬：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fan.json
 > - 蜂蜜：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json
 > - 星云（打开页面获取）：https://moil.cc/10.html
@@ -32,7 +25,14 @@ __影视源：__ （来自https://raw.liucn.cc/box/    https://gitcode.net/axuto
 > - 南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 > - 唐僧影视（TV）：https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt
 > - 月光宝盒（TV）：https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
-> > - 多仓版视频源（影视仓、EasyBox可用／直接复制下方冒号后的链接添加）：
+> - https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json （FongMi）__不推荐__
+> - http://home.jundie.top:81/top98.json （俊哥）__不推荐__
+> - ~https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json~
+> - ~http://drpy.site/js1 （小雅）~
+> - ~https://tvbox.cainisi.cf （菜妮丝）~
+> - ~https://神器每日推送.tk/pz.json （神器）~
+> - ~http://itvbox.cc/tvbox/云星日记/1.m3u8 （云星）~
+> - 多仓版视频源（影视仓、EasyBox可用／直接复制下方冒号后的链接添加）：
 > > - liu673cn：https://raw.liucn.cc/box/dm.txt
 > > - 应用多多：https://jihulab.com/duomv/apps/-/raw/main/duo.json
 > > - 小胡软件多仓：https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt
