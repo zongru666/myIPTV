@@ -22,6 +22,7 @@
 （来自https://raw.liucn.cc/box/    https://gitcode.net/axutongxue/backup/-/wikis/TVBox ）简单明了的长期更新TVBox视频源地址（排名不分先后）
 
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/yingshi2024.json （本仓库源）
+> - http://175.178.251.183:6689/tv.txt  （来自https://github.com/yuanzl77/IPTV）
 > - http://我不是.肥猫.live (肥猫)
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
 > - 饭太硬：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fan.json
@@ -59,6 +60,7 @@
 [返回目录](#Contents)  
 
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/iptv2024.m3u (本仓库源代理地址)
+> - http://175.178.251.183:6689/live.m3u  （来自https://github.com/yuanzl77/IPTV）
 > - https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u (原仓库源代理地址)
 > - https://m3u.ibert.me/j_home.m3u (来自https://github.com/HerbertHe/iptv-sources)
 > - https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8 （来自https://github.com/joevess/IPTV ）
