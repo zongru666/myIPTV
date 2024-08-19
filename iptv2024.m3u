@@ -2621,6 +2621,12 @@ http://mom.cloudns.be:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="D｜广东频道",广东珠江电信
 http://180.137.22.80:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
+http://14.154.194.169:4022/udp/239.77.0.1:5146
+#EXTINF:-1 group-title="D｜广东频道",广东珠江
+http://14.154.194.169:4022/udp/239.77.0.3:5146
+#EXTINF:-1 group-title="D｜广东频道",广东珠江
+http://14.154.194.169:4022/udp/239.77.1.94:5146
+#EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://113.101.119.31:8090/hls/105/index.m3u8
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://183.236.32.24:9901/hls/1036/index.m3u8
