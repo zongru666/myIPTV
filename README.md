@@ -2,15 +2,15 @@
 自用，侵删  
 
 ## Contents
-- [TVbox安装包（apk）](#安装包)
+- [TVbox安装包（安卓apk）](#安装包)
 - [影视源](#影视源)
 - [电视直播源](#电视直播源)
 - [iptv相关库汇集](#iptv相关库汇集)
 - [star历史曲线](#Star-History)
 
 ---------------------------------------------------------------------
-## 安装包  
-[返回目录](#contents)  
+## 安装包:  
+[返回目录](#Contents)  
 
 来自https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
@@ -56,7 +56,7 @@
 > > - Dxawi：https://dxawi.github.io/0/0.json
 
 ## 电视直播源：  
-[返回目录](#contents)  
+[返回目录](#Contents)  
 
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/iptv2024.m3u (本仓库源代理地址)
 > - https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u (原仓库源代理地址)
@@ -113,7 +113,7 @@
 
 ------------------------------------------------------------------------------------
 ## Star History  
-[返回目录](#contents)  
+[返回目录](#Contents)  
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zongru666/myIPTV&type=Timeline)](https://star-history.com/#zongru666/myIPTV&Timeline)
 
