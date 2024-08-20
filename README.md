@@ -6,6 +6,7 @@
 - [影视源](#影视源)
 - [电视直播源](#电视直播源)
 - [iptv相关库汇集](#iptv相关库汇集)
+- [鼓励一下](#鼓励一下)
 - [star历史曲线](#Star-History)
 
 ---------------------------------------------------------------------
@@ -27,7 +28,7 @@
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
 > - 饭太硬：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fan.json
 > - 蜂蜜：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json
-> - 星云（打开页面获取）：https://moil.cc/10.html
+> - ~星云（打开页面获取）：https://moil.cc/10.html~
 > - 巧技：https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
 > - 道长：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/XYQTVBox/drpy_js/drjs_config.json
 > - 俊于：http://home.jundie.top:81/top98.json
@@ -115,6 +116,9 @@
 解决方法：改为github镜像站的地址就好了，如https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u ，使用的是kkgithub镜像站的*
 
 ------------------------------------------------------------------------------------
+## 鼓励一下
+![mm_reward_qrcode_1724116372006(1)](https://github.com/user-attachments/assets/ae10606c-2a42-4486-8e6d-7b7d056ca8f4)
+
 ## Star History  
 [返回目录](#Contents)  
 
