@@ -7,18 +7,18 @@
 - [电视直播源](#电视直播源)
 - [iptv相关库汇集](#iptv相关库汇集)
 - [鼓励一下](#鼓励一下)
-- [star历史曲线](#Star-History)
+- [star历史曲线](#star-history)
 
 ---------------------------------------------------------------------
 ## 安装包:  
-[返回目录](#Contents)  
+[返回目录](#contents)  
 
 来自https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 --------------------------------------------------------------
 
 ## 影视源：  
-[返回目录](#Contents)  
+[返回目录](#contents)  
 
 （来自https://raw.liucn.cc/box/    https://gitcode.net/axutongxue/backup/-/wikis/TVBox ）简单明了的长期更新TVBox视频源地址（排名不分先后）
 
@@ -58,7 +58,7 @@
 > > - Dxawi：https://dxawi.github.io/0/0.json
 
 ## 电视直播源：  
-[返回目录](#Contents)  
+[返回目录](#contents)  
 
 > - https://raw.kkgithub.com/zongru666/myIPTV/main/iptv2024.m3u (本仓库源代理地址)
 > - http://175.178.251.183:6689/live.m3u  （来自https://github.com/yuanzl77/IPTV）
@@ -118,14 +118,13 @@
 ------------------------------------------------------------------------------------
 ## 鼓励一下
 _你的鼓励是这个项目继续更新的最大动力_  
+[返回目录](#contents)  
 ![mm_reward_qrcode_1724116372006(1)](https://github.com/user-attachments/assets/ae10606c-2a42-4486-8e6d-7b7d056ca8f4)
 
 ## Star History  
-[返回目录](#Contents)  
+[返回目录](#contents)  
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zongru666/myIPTV&type=Timeline)](https://star-history.com/#zongru666/myIPTV&Timeline)
-
-
 
 
 *自用库，用于学习，若用，请24小时后自行删除，谢谢配合，侵删*
