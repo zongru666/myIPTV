@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视CCTV",CCTV1
+http://171.122.41.13:8083/rtp/226.0.2.153:9136$IPV4『线路82』
+#EXTINF:-1 group-title="央视CCTV",CCTV1
 http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视CCTV",CCTV1
 http://218.3.138.25:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
