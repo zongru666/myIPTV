@@ -255,12 +255,6 @@ http://58.53.153.138:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&a
 #EXTINF:-1 group-title="央视CCTV",CCTV文化精品
 http://180.213.174.231:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视CCTV",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
-#EXTINF:-1 group-title="央视CCTV",CCTV4K
-http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 group-title="央视CCTV",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 group-title="央视CCTV",CCTV4K
 http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视CCTV",CCTVNEWS
 http://113.57.20.158:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
