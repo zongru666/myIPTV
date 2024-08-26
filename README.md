@@ -68,7 +68,8 @@
 > - https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u （来自https://github.com/cymz6/AutoIPTV-Hotel ）
 > - 📺 自动扫描直播源 IPTV6/IPTV4：  
 > > *有ipv6环境的强烈推荐这个IPTV6源，高速稳定*  
-> > *一般都有ipv6的，但需要在路由器开启，以华为路由器为例，打开路由器管理页面，找到网络设置，里面就有个开启/关闭ipv6，开启即可*
+> > *一般都有ipv6的，但需要在路由器开启，以华为路由器为例，打开路由器管理页面，找到网络设置，里面就有个开启/关闭ipv6，开启即可*  
+> > [ipv6测试](http://ipv6-test.ch/)
 > > ![路由器开启ipv6](https://github.com/user-attachments/assets/3ef66c4a-4fb4-42ad-b3f6-3bd1afafe61f)  
 > > <table style="width:100%; border-collapse: collapse; text-align: center;">
 > >   <tr>
