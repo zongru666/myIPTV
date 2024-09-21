@@ -2729,7 +2729,7 @@ http://mom.cloudns.be:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="D｜广东频道",广东珠江电信
 http://180.137.22.80:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://113.65.7.242:8888/udp/239.77.0.1:5146$IPV4『2』
+http://59.38.62.96:2052/rtp/239.77.0.1:5146$1080•
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://113.65.7.242:8888/udp/239.77.0.114:5146$IPV4『3』
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
