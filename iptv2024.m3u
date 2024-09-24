@@ -2710,24 +2710,6 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://123.13.24.224:9992/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="游戏频道",游戏风云
 http://180.213.174.231:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜广东频道",云浮综合
-https://livestream.oeeee.com/slive/17806.m3u8
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://14.29.76.30:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://183.236.32.24:9901/hls/1037/index.m3u8
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://219.137.230.245:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://61.146.224.42:8088/hls/3/index.m3u8
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://gmxw.7766.org:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="D｜广东频道",广东新闻
-http://mom.cloudns.be:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 group-title="D｜广东频道",广东珠江电信
-http://180.137.22.80:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://59.38.62.96:2052/rtp/239.77.0.1:5146$1080
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
@@ -2786,6 +2768,22 @@ http://gmxw.7766.org:808/hls/83/index.m3u8
 http://gmxw.7766.org:808/hls/18/index.m3u8
 #EXTINF:-1 group-title="D｜广东频道",广东民生
 https://php.17186.eu.org/gdtv/web/gdgg.m3u8
+#EXTINF:-1 group-title="D｜广东频道",云浮综合
+https://livestream.oeeee.com/slive/17806.m3u8
+#EXTINF:-1 group-title="D｜广东频道",广东新闻
+http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="D｜广东频道",广东新闻
+http://14.29.76.30:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="D｜广东频道",广东新闻
+http://183.236.32.24:9901/hls/1037/index.m3u8
+#EXTINF:-1 group-title="D｜广东频道",广东新闻
+http://219.137.230.245:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="D｜广东频道",广东新闻
+http://61.146.224.42:8088/hls/3/index.m3u8
+#EXTINF:-1 group-title="D｜广东频道",广东新闻
+http://gmxw.7766.org:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="D｜广东频道",广东新闻
+http://mom.cloudns.be:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="D｜广东频道",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="D｜广东频道",河源综合
