@@ -2715,20 +2715,6 @@ http://61.143.227.162:10000/rtp/239.77.0.1:5146$GQIPV4『117』
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://120.237.241.82:4000/udp/239.77.0.1:5146$IPV4
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://113.101.160.134:8888/rtp/239.77.0.1:5146$69
-#EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://59.38.62.96:2052/rtp/239.77.0.1:5146$1080
-#EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://113.100.72.213:8899/udp/239.77.0.1:5146$HD•IPV4
-#EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://mail.bfgpay.cn:2052/udp/239.77.0.114:5146$GQ-IPV4『106』
-#EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://121.32.204.50:9999/rtp/239.77.0.1:5146$GQ-IPV4『114』
-#EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://113.109.250.1:9999/rtp/239.77.0.114:5146$BQIPV4『115』
-#EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://mail.bfgpay.cn:2052/udp/239.77.0.114:5146$IPV4『107』
-#EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://218.15.214.115:10000/rtp/239.77.0.1:5146$IPV4『99』
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://113.109.250.1:9999/udp/239.77.0.1:5146$IPV4『91』
