@@ -2711,7 +2711,7 @@ http://123.13.24.224:9992/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="游戏频道",游戏风云
 http://180.213.174.231:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
-http://61.143.227.162:10000/rtp/239.77.0.1:5146$GQIPV4『117』
+http://14.212.185.71:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
 http://120.237.241.82:4000/udp/239.77.0.1:5146$IPV4
 #EXTINF:-1 group-title="D｜广东频道",广东珠江
