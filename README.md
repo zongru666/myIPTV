@@ -27,6 +27,7 @@
 > - http://我不是.肥猫.live (肥猫)
 > - http://pandown.pro/tvbox/tvbox.json （巧儿）
 > - 饭太硬：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fan.json
+> - 饭太硬：http://www.饭太硬.com/tv
 > - 蜂蜜：https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json
 > - ~星云（打开页面获取）：https://moil.cc/10.html~
 > - 巧技：https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
