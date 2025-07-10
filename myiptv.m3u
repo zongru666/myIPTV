@@ -1,4 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="央视CCTV",CCTV1
+http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$仅供娱乐切勿商用
+#EXTINF:-1 group-title="央视CCTV",CCTV1
+http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+#EXTINF:-1 group-title="央视CCTV",CCTV1
+http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央视CCTV",CCTV1
 http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视CCTV",CCTV1
@@ -206,6 +213,12 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 group-title="央视CCTV",CCTV4
 http://61.136.67.238:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视CCTV",CCTV5
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视CCTV",CCTV5
+http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视CCTV",CCTV5
+http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视CCTV",CCTV5
 http://nas.hssvm.com:8888/rtp/225.1.1.160:5002$LR•IPV4『线路1』
 #EXTINF:-1 group-title="央视CCTV",CCTV5
 http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -275,6 +288,12 @@ http://121.24.98.123:8090/hls/13/index.m3u8
 http://1.30.18.218:20080/hls/5/index.m3u8
 #EXTINF:-1 group-title="央视CCTV",CCTV5
 http://60.10.139.10:8801/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视CCTV",CCTV5+
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视CCTV",CCTV5+
+http://39.134.65.3:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视CCTV",CCTV5+
+http://39.134.65.106/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视CCTV",CCTV5+
 http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视CCTV",CCTV5+
@@ -989,6 +1008,10 @@ http://218.3.138.25:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 http://122.230.62.250:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",浙江卫视
 http://123.138.216.44:9902/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://39.134.65.106/PLTV/88888888/224/3221225977/1.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://218.3.138.25:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",湖南卫视
@@ -2574,6 +2597,12 @@ http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTINF:-1 group-title="纪录片",航拍中国第三季
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
+#EXTINF:-1 group-title="纪录片",求索纪录
+http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+#EXTINF:-1 group-title="纪录片",求索科学
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+#EXTINF:-1 group-title="纪录片",纪实科教
+http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
 #EXTINF:-1 group-title="动画片",动漫秀场
 http://171.108.239.126:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="动画片",北京卡通
