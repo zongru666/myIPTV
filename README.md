@@ -111,7 +111,8 @@
 > * https://github.com/joevess/IPTV
 > * https://github.com/vbskycn/iptv
 > * https://github.com/ssili126/tv
-> * https://github.com/yuanzl77/IPTV  
+> * https://github.com/yuanzl77/IPTV
+> * https://github.com/kakaxi-1/IPTV 
 ------------------------------------------------------------------------------------
 *发现tvbox直接使用github上原仓库里的raw链接作为直播源的话，会提示“直播地址网络请求失败”
 ![直播地址网络请求失败](https://github.com/user-attachments/assets/e6858620-1abc-455d-894d-b3e47c2c0be2)
